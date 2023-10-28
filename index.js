@@ -2,7 +2,7 @@
 
 function Myfun()
 {
-    let val=-77;
+    let val=77;
     if(val>0)
     {
         return (

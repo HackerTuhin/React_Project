@@ -1,5 +1,5 @@
 
-
+const head=<h1 ClassName='btn btn-danger'>nice</h1>
 function Myfun()
 {
     let val=77;

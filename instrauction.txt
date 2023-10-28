@@ -1,0 +1,14 @@
+1. add react cdn, ReactDOM cdn, and duble cdn from online in index.html file
+2.to render write the following line in "index.js" file : 
+            "ReactDOM.render(what will be render, where it will render)"
+creating tag----
+	1. function Myfun()
+		{
+			return (<h1> hello heading </h1>)
+		}
+	ReactDOM.render(<Myfun />, document.GetElementById('root'))
+	2. const heading=<div> <h1> this is heading </h1> 
+				<p> this is para</p>
+			</div>
+	ReactDOM.render(heading, document.GetElementById('root'))
+	

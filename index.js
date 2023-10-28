@@ -1,5 +1,5 @@
 
-const head=<h1 ClassName='btn btn-danger'>nice</h1>
+const head = <h1>nice</h1>
 function Myfun()
 {
     let val=77;
@@ -28,7 +28,6 @@ function Myfun()
 
 ReactDOM.render(
 <div>
-    head
     <Myfun />
 </div>
 , document.getElementById("test"));

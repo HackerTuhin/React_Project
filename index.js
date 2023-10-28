@@ -28,6 +28,7 @@ function Myfun()
 
 ReactDOM.render(
 <div>
+    head
     <Myfun />
 </div>
 , document.getElementById("test"));
